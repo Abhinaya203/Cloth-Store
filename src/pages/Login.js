@@ -8,7 +8,7 @@ import {
 import GoogleIcon from "@mui/icons-material/Google";
 import { ToastContainer, toast } from "react-toastify";
 import { useDispatch, useSelector } from "react-redux";
-import { addUser, clearOrder, removeUser } from "../redux/clothSlice";
+import { addUser, removeUser } from "../redux/clothSlice";
 import { useNavigate } from "react-router-dom";
 
 const Login = () => {
