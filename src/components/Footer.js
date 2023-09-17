@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="max-w-screen-xl mx-auto  grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-10">
         <div className="flex flex-col gap-7">
           <h1 className="text-2xl font-semibold text-white mb-4">
-            Cloth-Store
+            WardrobeTreasures
           </h1>
 
           <div className="flex gap-5 text-lg text-white">
@@ -47,7 +47,7 @@ const Footer = () => {
           <div className="text-base flex flex-col gap-2">
             <p>Hyderabad, Telangana, India</p>
             <p className="text-white text-sm tracking-wide ">
-              clothstore@gmail.com
+              wardrobetreasures@gmail.com
             </p>
             <p>+91 23462 87766</p>
           </div>

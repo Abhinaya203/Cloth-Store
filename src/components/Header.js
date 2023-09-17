@@ -61,7 +61,7 @@ const Header = () => {
           <Link to="/">
             <div>
               <h1 className="w-30 text-xl text-white py-5 px-10">
-                Cloth-Store
+                WardrobeTreasures
               </h1>
             </div>
           </Link>
